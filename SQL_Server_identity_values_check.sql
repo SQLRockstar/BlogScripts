@@ -124,9 +124,9 @@ BEGIN -- procedure
 -- works with:
 -- -- SQL Server 7.0   : no --
 -- -- SQL Server 2000  : no --
--- -- SQL Server 2005  : yes --
--- -- SQL Server 2008  : yes --
--- -- SQL Server 2008r2: yes --
+-- -- SQL Server 2005  : no --
+-- -- SQL Server 2008  : no --
+-- -- SQL Server 2008r2: no --
 -- -- SQL Server 2012  : yes --
 -- -- SQL Server 2014  : yes --
 -- -- SQL Server 2016  : yes --
